@@ -34,3 +34,5 @@ jobs:
         with:
           folder: dist
           branch: gh-pages
+          git-config-name: niffb
+          git-config-email: niffb@users.noreply.github.com
