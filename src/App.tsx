@@ -20,7 +20,7 @@ import { About } from './pages/About';
 
 export default function App() {
   return (
-    <Router>
+    <Router basename="/VPort">
       <div className="relative min-h-screen overflow-hidden bg-paper">
         <BackgroundShapes />
         
